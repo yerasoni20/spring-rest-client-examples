@@ -9,9 +9,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.server.ServerWebExchange;
 
-/**
- * Created by jt on 9/22/17.
- */
 @Slf4j
 @Controller
 public class UserController {
