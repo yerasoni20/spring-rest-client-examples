@@ -13,9 +13,7 @@ import reactor.core.publisher.Mono;
 
 import java.util.List;
 
-/**
- * Created by jt on 9/21/17.
- */
+
 @Service
 public class ApiServiceImpl implements ApiService {
 
