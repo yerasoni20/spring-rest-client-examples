@@ -14,9 +14,7 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Created by jt on 9/22/17.
- */
+
 public class RestTemplateExamples {
 
     public static final String API_ROOT = "https://api.predic8.de:443/shop";
